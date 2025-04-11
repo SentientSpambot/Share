@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Log file w/ data
+#Log file w/ date
 log_file="flac_conversion_$(date +%Y%m%d_%H%M%S).log"
 
 #Start log
